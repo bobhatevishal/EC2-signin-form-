@@ -39,3 +39,6 @@ and hosted on **AWS EC2** using **Nginx**. When users submit the form, their dat
 ```bash
 sudo apt update
 sudo apt install nginx mariadb-server php php-mysql git
+
+to attached php & html file
+sudo apt-get install php8.3-mysqlnd.x86_64 -y
