@@ -39,13 +39,3 @@ and hosted on **AWS EC2** using **Nginx**. When users submit the form, their dat
 ```bash
 sudo apt update
 sudo apt install nginx mariadb-server php php-mysql git
-
-
-✅ Features
-User feedback/sign-in form
-
-Inserts data into MariaDB using PHP
-
-Live-hosted on AWS EC2 with Nginx
-
-Uses prepared statements for security
